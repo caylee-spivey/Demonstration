@@ -12,3 +12,5 @@
 - Sheldon
 
 [My Math Home Page](https://math.uconn.edu)
+
+![An Image](./Daisy.jpeg)
