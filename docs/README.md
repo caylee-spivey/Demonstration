@@ -14,3 +14,8 @@
 [My Math Home Page](https://math.uconn.edu)
 
 ![An Image](./Daisy.jpeg)
+
+```python
+def fib(n):
+  if n==0:
+    return 1
