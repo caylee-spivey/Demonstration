@@ -11,4 +11,4 @@
 - Charlie
 - Sheldon
 
-$$\int_{0}^{\infty} f(x) dx$$
+[My Math Home Page](https://math.uconn.edu)
